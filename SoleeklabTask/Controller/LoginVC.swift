@@ -17,11 +17,11 @@ class LoginVC: ParentViewController  {
     @IBOutlet weak var passwordTextField: SkyFloatingLabelTextField!
     @IBOutlet weak var loginView: LoginView!
 
-    //da master tani aho!!
+    
     //MARK:- view methods
     override func viewDidLoad() {
         super.viewDidLoad()
-    // master changes,, branch changes,, issue123,, ok last
+    // i want to push please.
         emailTextField.delegate = self
         passwordTextField.delegate = self
         emailTextField.tag = 1
