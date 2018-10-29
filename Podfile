@@ -10,11 +10,5 @@ target 'SoleeklabTask' do
     pod 'Firebase/Auth'
     pod 'SkyFloatingLabelTextField', '~> 3.0'
     pod 'IHKeyboardAvoiding', :git => 'https://github.com/Kirow/IHKeyboardAvoiding.git', :branch => 'swift-4.2'
-<<<<<<< HEAD
-
-=======
-   
-#pod lalala
->>>>>>> b7a1af1bdf89414e3de3962a99c205aae80f27dc
 
 end
