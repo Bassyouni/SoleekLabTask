@@ -21,7 +21,7 @@ class LoginVC: ParentViewController  {
     //MARK:- view methods
     override func viewDidLoad() {
         super.viewDidLoad()
-    // master changes,, branch changes
+    // master changes,, branch changes,, issue123,, ok last
         emailTextField.delegate = self
         passwordTextField.delegate = self
         emailTextField.tag = 1
