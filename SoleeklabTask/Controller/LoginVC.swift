@@ -17,7 +17,7 @@ class LoginVC: ParentViewController  {
     @IBOutlet weak var passwordTextField: SkyFloatingLabelTextField!
     @IBOutlet weak var loginView: LoginView!
 
-    
+    //da master tani aho!!
     //MARK:- view methods
     override func viewDidLoad() {
         super.viewDidLoad()
