@@ -21,7 +21,7 @@ class LoginVC: ParentViewController  {
     //MARK:- view methods
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        // sex dah walla eh, walla da merge conflict?
         emailTextField.delegate = self
         passwordTextField.delegate = self
         emailTextField.tag = 1
